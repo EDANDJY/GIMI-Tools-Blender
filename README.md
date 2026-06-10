@@ -1,6 +1,6 @@
 # GIMI-Blender-Plugin
 
-Genshin Impact 模组开发 Blender 插件 - 基于 SilentNightSound 的 GIMI-Tools
+GI模组开发 Blender 插件 - 基于 SilentNightSound 的 GIMI-Tools
 
 ## 致谢
 
